@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Brand,Unit_Cost,Unit_Price,Supplier_Name,Is_Active
+1,Whole Wheat Bread,Bakery,Britannia,22,30,Britannia Industries,1
+2,Milk 1L,Dairy,Amul,38,50,Amul Dairy,1
+3,Butter 500g,Dairy,Amul,190,230,Amul Dairy,1
+4,Green Tea 100g,Beverages,Tata,75,95,Tata Consumer,1
+5,Black Tea 250g,Beverages,Red Label,110,140,HUL,1
+6,Basmati Rice 5kg,Grains,India Gate,320,410,KRBL Ltd,1
+7,Sugar 1kg,Grains,Parry's,36,50,Parry Sugars,1
+8,Maida 1kg,Flour,Aashirvaad,40,55,ITC Ltd,1
+9,Maggie Noodles 70g,Snacks,Nestle,8,12,Nestle India,1
+10,Pasta 500g,Snacks,Barilla,70,95,Barilla Foods,1
+11,Cooking Oil 1L,Edible Oils,Fortune,100,125,Adani Wilmar,1
+12,Sunflower Oil 1L,Edible Oils,Saffola,115,135,Marico,1
+13,Shampoo 180ml,Personal Care,Sunsilk,65,98,HUL,1
+14,Face Wash 100ml,Personal Care,Himalaya,75,110,Himalaya Wellness,1
+15,Toothpaste 150g,Personal Care,Colgate,45,65,Colgate-Palmolive,1
+16,Detergent 1kg,Home Care,Surf Excel,90,125,HUL,1
+17,Biscuits 200g,Snacks,Parle-G,8,12,Parle,1
+18,Coffee 200g,Beverages,Nescafe,140,180,Nestle India,1
+19,Chocolates Dairy Milk 50g,Snacks,Cadbury,20,30,Mondelez,1
+20,Hair Oil 200ml,Personal Care,Parachute,65,85,Marico,1
+21,Brown Bread,Bakery,Britannia,24,35,Britannia Industries,1
+22,Cornflakes 500g,Breakfast,Kellogg's,90,130,Kellogg’s,1
+23,Oats 1kg,Breakfast,Quaker,110,150,PepsiCo,1
+24,Soap 100g,Personal Care,Lux,18,25,HUL,1
+25,Washing Powder 1kg,Home Care,Ariel,95,130,P&G,1
+26,Cheese 200g,Dairy,Amul,70,95,Amul Dairy,1
+27,Yogurt Cup 100g,Dairy,Epigamia,22,35,Epigamia,1
+28,Chips 100g,Snacks,Lays,25,35,PepsiCo,1
+29,Peanut Butter 340g,Spreads,Sundrop,150,190,Agro Tech Foods,1
+30,Jam 500g,Spreads,Kissan,85,120,HUL,1
+31,Atta 5kg,Flour,Aashirvaad,140,190,ITC Ltd,1
+32,Soft Drinks 750ml,Beverages,Coca-Cola,28,40,Coca-Cola,1
+33,Orange Juice 1L,Juices,Tropicana,75,110,PepsiCo,1
+34,Energy Drink 250ml,Beverages,Red Bull,85,110,Red Bull GmbH,1
+35,Handwash 250ml,Home Care,Dettol,45,65,Reckitt,1
+36,Floor Cleaner 1L,Home Care,Lizol,85,110,Reckitt,1
+37,Shaving Cream 100g,Personal Care,Gillette,55,85,P&G,1
+38,Baby Powder 200g,Baby Care,Johnson’s,85,120,Johnson & Johnson,1
+39,Baby Diaper Pack,Baby Care,Pampers,300,380,P&G,1
+40,Toor Dal 1kg,Grains,Gold,80,110,Local Mills,1
+41,Moong Dal 1kg,Grains,Gold,90,120,Local Mills,1
+42,Chocolate Cookies 150g,Snacks,Unibic,25,40,Unibic,1
+43,Ice Cream 500ml,Frozen,Amul,80,120,Amul Dairy,1
+44,Frozen Pizza,Frozen,ITC MasterChef,90,140,ITC Ltd,1
+45,Ketchup 1kg,Sauces,Kissan,80,110,HUL,1
+46,Spices Masala 100g,Spices,MDH,35,55,MDH Spices,1
+47,Turmeric Powder 200g,Spices,Everest,40,60,Everest,1
+48,Chili Powder 200g,Spices,Everest,48,70,Everest,1
+49,Almonds 500g,Nuts,Wonderland,260,330,Wonderland Foods,1
+50,Cashews 500g,Nuts,Wonderland,280,360,Wonderland Foods,1

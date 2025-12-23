@@ -1,0 +1,16 @@
+Store_ID,Store_Name,City,Region,Store_Manager,Open_Date
+1,SuperMart Hyderabad B,Hyderabad,South,Rajesh Kumar,2017-01-24
+2,SuperMart Chennai C,Chennai,South,Divya Reddy,2020-04-08
+3,SuperMart Bengaluru D,Bengaluru,South,Arun Prakash,2018-12-04
+4,SuperMart Mumbai E,Mumbai,West,Shilpa Nair,2017-10-14
+5,SuperMart Pune A,Pune,West,Anand Desai,2016-01-03
+6,SuperMart Ahmedabad B,Ahmedabad,West,Rohan Patil,2019-04-17
+7,SuperMart Delhi C,Delhi,North,Sonia Mehta,2016-09-07
+8,SuperMart Noida D,Noida,North,Kapil Sharma,2022-04-15
+9,SuperMart Lucknow E,Lucknow,North,Neeraj Singh,2020-01-25
+10,SuperMart Kolkata A,Kolkata,East,Sudip Roy,2018-12-14
+11,SuperMart Bhubaneswar B,Bhubaneswar,East,Ritika Sahu,2021-05-05
+12,SuperMart Visakhapatnam C,Visakhapatnam,South,Harsha Vardhan,2019-06-04
+13,SuperMart Jaipur D,Jaipur,West,Poonam Joshi,2017-07-04
+14,SuperMart Surat E,Surat,West,Ravi Mehta,2021-06-20
+15,SuperMart Thiruvananthapuram A,Thiruvananthapuram,South,Leela Menon,2020-01-24
